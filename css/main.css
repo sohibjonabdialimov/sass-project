@@ -40,7 +40,7 @@ header {
       text-transform: uppercase;
       transition: font 0.1s ease-in; }
       header nav ul a:hover {
-        font-weight: 600; }
+        font-weight: 700; }
   @media (max-width: 768px) {
     header {
       width: 90%; }
@@ -184,7 +184,8 @@ footer {
       color: #6c6c6c;
       transition: color 0.1s ease-in-out; }
       footer p a:hover {
-        color: #333;
+        color: #444;
+        font-weight: 600;
         text-decoration: underline; }
   @media (max-width: 768px) {
     footer {

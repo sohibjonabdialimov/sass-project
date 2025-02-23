@@ -49,7 +49,7 @@ header {
         text-transform: uppercase;
         transition: font 0.1s ease-in;
         &:hover {
-          font-weight: 600;
+          font-weight: 700;
         }
       }
     }
@@ -247,7 +247,8 @@ footer {
       color: #6c6c6c;
       transition: color 0.1s ease-in-out;
       &:hover {
-        color: #333;
+        color: #444;
+        font-weight: 600;
         text-decoration: underline;
       }
     }
